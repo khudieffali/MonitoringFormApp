@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Praktikant\\GarageTask\\MonitoringFormApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{843A8604-E592-4977-A6B3-E7E0D6954500}|MonitoringFormApp\\MonitoringFormApp.csproj|D:\\Praktikant\\GarageTask\\MonitoringFormApp\\monitoringformapp\\data\\repositories\\txtfileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843A8604-E592-4977-A6B3-E7E0D6954500}|MonitoringFormApp\\MonitoringFormApp.csproj|solutionrelative:monitoringformapp\\data\\repositories\\txtfileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843A8604-E592-4977-A6B3-E7E0D6954500}|MonitoringFormApp\\MonitoringFormApp.csproj|D:\\Praktikant\\GarageTask\\MonitoringFormApp\\monitoringformapp\\data\\repositories\\csvfileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843A8604-E592-4977-A6B3-E7E0D6954500}|MonitoringFormApp\\MonitoringFormApp.csproj|solutionrelative:monitoringformapp\\data\\repositories\\csvfileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843A8604-E592-4977-A6B3-E7E0D6954500}|MonitoringFormApp\\MonitoringFormApp.csproj|D:\\Praktikant\\GarageTask\\MonitoringFormApp\\monitoringformapp\\infrastructure\\entities\\filedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843A8604-E592-4977-A6B3-E7E0D6954500}|MonitoringFormApp\\MonitoringFormApp.csproj|solutionrelative:monitoringformapp\\infrastructure\\entities\\filedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843A8604-E592-4977-A6B3-E7E0D6954500}|MonitoringFormApp\\MonitoringFormApp.csproj|d:\\praktikant\\garagetask\\monitoringformapp\\monitoringformapp\\business\\filemonitoringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843A8604-E592-4977-A6B3-E7E0D6954500}|MonitoringFormApp\\MonitoringFormApp.csproj|solutionrelative:monitoringformapp\\business\\filemonitoringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843A8604-E592-4977-A6B3-E7E0D6954500}|MonitoringFormApp\\MonitoringFormApp.csproj|D:\\Praktikant\\GarageTask\\MonitoringFormApp\\monitoringformapp\\data\\repositories\\xmlfileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843A8604-E592-4977-A6B3-E7E0D6954500}|MonitoringFormApp\\MonitoringFormApp.csproj|solutionrelative:monitoringformapp\\data\\repositories\\xmlfileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843A8604-E592-4977-A6B3-E7E0D6954500}|MonitoringFormApp\\MonitoringFormApp.csproj|d:\\praktikant\\garagetask\\monitoringformapp\\monitoringformapp\\monitoringform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843A8604-E592-4977-A6B3-E7E0D6954500}|MonitoringFormApp\\MonitoringFormApp.csproj|solutionrelative:monitoringformapp\\monitoringform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843A8604-E592-4977-A6B3-E7E0D6954500}|MonitoringFormApp\\MonitoringFormApp.csproj|D:\\Praktikant\\GarageTask\\MonitoringFormApp\\monitoringformapp\\infrastructure\\repositories\\ifileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843A8604-E592-4977-A6B3-E7E0D6954500}|MonitoringFormApp\\MonitoringFormApp.csproj|solutionrelative:monitoringformapp\\infrastructure\\repositories\\ifileloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843A8604-E592-4977-A6B3-E7E0D6954500}|MonitoringFormApp\\MonitoringFormApp.csproj|D:\\Praktikant\\GarageTask\\MonitoringFormApp\\monitoringformapp\\business\\dataloadedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843A8604-E592-4977-A6B3-E7E0D6954500}|MonitoringFormApp\\MonitoringFormApp.csproj|solutionrelative:monitoringformapp\\business\\dataloadedeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843A8604-E592-4977-A6B3-E7E0D6954500}|MonitoringFormApp\\MonitoringFormApp.csproj|D:\\Praktikant\\GarageTask\\MonitoringFormApp\\monitoringformapp\\monitoringform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{843A8604-E592-4977-A6B3-E7E0D6954500}|MonitoringFormApp\\MonitoringFormApp.csproj|solutionrelative:monitoringformapp\\monitoringform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileMonitoringService.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\MonitoringFormApp\\MonitoringFormApp\\Business\\FileMonitoringService.cs",
+              "RelativeDocumentMoniker": "MonitoringFormApp\\Business\\FileMonitoringService.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\MonitoringFormApp\\MonitoringFormApp\\Business\\FileMonitoringService.cs",
+              "RelativeToolTip": "MonitoringFormApp\\Business\\FileMonitoringService.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAUwDwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T21:49:13.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TXTFileLoader.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\MonitoringFormApp\\MonitoringFormApp\\Data\\Repositories\\TXTFileLoader.cs",
+              "RelativeDocumentMoniker": "MonitoringFormApp\\Data\\Repositories\\TXTFileLoader.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\MonitoringFormApp\\MonitoringFormApp\\Data\\Repositories\\TXTFileLoader.cs",
+              "RelativeToolTip": "MonitoringFormApp\\Data\\Repositories\\TXTFileLoader.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T21:34:17.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFileLoader.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\MonitoringFormApp\\MonitoringFormApp\\Infrastructure\\Repositories\\IFileLoader.cs",
+              "RelativeDocumentMoniker": "MonitoringFormApp\\Infrastructure\\Repositories\\IFileLoader.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\MonitoringFormApp\\MonitoringFormApp\\Infrastructure\\Repositories\\IFileLoader.cs",
+              "RelativeToolTip": "MonitoringFormApp\\Infrastructure\\Repositories\\IFileLoader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T21:20:58.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileData.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\MonitoringFormApp\\MonitoringFormApp\\Infrastructure\\Entities\\FileData.cs",
+              "RelativeDocumentMoniker": "MonitoringFormApp\\Infrastructure\\Entities\\FileData.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\MonitoringFormApp\\MonitoringFormApp\\Infrastructure\\Entities\\FileData.cs",
+              "RelativeToolTip": "MonitoringFormApp\\Infrastructure\\Entities\\FileData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T21:22:54.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CSVFileLoader.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\MonitoringFormApp\\MonitoringFormApp\\Data\\Repositories\\CSVFileLoader.cs",
+              "RelativeDocumentMoniker": "MonitoringFormApp\\Data\\Repositories\\CSVFileLoader.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\MonitoringFormApp\\MonitoringFormApp\\Data\\Repositories\\CSVFileLoader.cs",
+              "RelativeToolTip": "MonitoringFormApp\\Data\\Repositories\\CSVFileLoader.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T21:33:39.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XMLFileLoader.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\MonitoringFormApp\\MonitoringFormApp\\Data\\Repositories\\XMLFileLoader.cs",
+              "RelativeDocumentMoniker": "MonitoringFormApp\\Data\\Repositories\\XMLFileLoader.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\MonitoringFormApp\\MonitoringFormApp\\Data\\Repositories\\XMLFileLoader.cs",
+              "RelativeToolTip": "MonitoringFormApp\\Data\\Repositories\\XMLFileLoader.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T21:33:48.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MonitoringForm.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\MonitoringFormApp\\MonitoringFormApp\\MonitoringForm.cs",
+              "RelativeDocumentMoniker": "MonitoringFormApp\\MonitoringForm.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\MonitoringFormApp\\MonitoringFormApp\\MonitoringForm.cs",
+              "RelativeToolTip": "MonitoringFormApp\\MonitoringForm.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAUwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T22:12:07.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataLoadedEventArgs.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\MonitoringFormApp\\MonitoringFormApp\\Business\\DataLoadedEventArgs.cs",
+              "RelativeDocumentMoniker": "MonitoringFormApp\\Business\\DataLoadedEventArgs.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\MonitoringFormApp\\MonitoringFormApp\\Business\\DataLoadedEventArgs.cs",
+              "RelativeToolTip": "MonitoringFormApp\\Business\\DataLoadedEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T22:42:53.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MonitoringForm.cs [Design]",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\MonitoringFormApp\\MonitoringFormApp\\MonitoringForm.cs",
+              "RelativeDocumentMoniker": "MonitoringFormApp\\MonitoringForm.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\MonitoringFormApp\\MonitoringFormApp\\MonitoringForm.cs [Design]",
+              "RelativeToolTip": "MonitoringFormApp\\MonitoringForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T20:52:05.1Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

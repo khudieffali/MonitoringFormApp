@@ -1,0 +1,10 @@
+D:\Praktikant\GarageTask\MonitoringFormApp\MonitoringFormApp\bin\Debug\MonitoringFormApp.exe.config
+D:\Praktikant\GarageTask\MonitoringFormApp\MonitoringFormApp\bin\Debug\MonitoringFormApp.exe
+D:\Praktikant\GarageTask\MonitoringFormApp\MonitoringFormApp\bin\Debug\MonitoringFormApp.pdb
+D:\Praktikant\GarageTask\MonitoringFormApp\MonitoringFormApp\obj\Debug\MonitoringFormApp.csproj.AssemblyReference.cache
+D:\Praktikant\GarageTask\MonitoringFormApp\MonitoringFormApp\obj\Debug\MonitoringFormApp.MonitoringForm.resources
+D:\Praktikant\GarageTask\MonitoringFormApp\MonitoringFormApp\obj\Debug\MonitoringFormApp.Properties.Resources.resources
+D:\Praktikant\GarageTask\MonitoringFormApp\MonitoringFormApp\obj\Debug\MonitoringFormApp.csproj.GenerateResource.cache
+D:\Praktikant\GarageTask\MonitoringFormApp\MonitoringFormApp\obj\Debug\MonitoringFormApp.csproj.CoreCompileInputs.cache
+D:\Praktikant\GarageTask\MonitoringFormApp\MonitoringFormApp\obj\Debug\MonitoringFormApp.exe
+D:\Praktikant\GarageTask\MonitoringFormApp\MonitoringFormApp\obj\Debug\MonitoringFormApp.pdb
